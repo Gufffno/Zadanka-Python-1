@@ -1,7 +1,7 @@
 import os
 os.system("cls")
 
-slownik = {'Pelikan': 'Jaś Święs', 'Chudy': 'Bartosz Obudziński', 'Agent': 'Marek Krzymowksi', 'Góral': 'Jakub Rydzewski', 'Krecik': 'Piotr Jarema', 'Myketo': 'Mikołaj Pięcek', 'Cringe': 'Darek Letkiewicz', 'Jednoręki Bandyta': 'Juliusz Makulec', 'El prezidento': 'Dariusz Oleśniewicz', 'Struś': 'Klaudia Rowińska' }
+slownik = {'Pelikan': 'Jaś ', 'Chudy': 'Bartosz ', 'Agent': 'Marek ', 'Góral': 'Jakub ', 'Krecik': 'Piotr ', 'Myketo': 'Mikołaj ', 'Cringe': 'Darek ', 'Jednoręki Bandyta': 'Juliusz ', 'El prezidento': 'Dariusz ', 'Struś': 'Klaudia ' }
 print(slownik['Pelikan'])
 print(slownik['Chudy'])
 print(slownik['Agent'])
